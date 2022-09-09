@@ -1,1 +1,11 @@
-git init
+heroku git:remote -a dannys-tutorial-app
+git push heroku main
+$ ssh-keygen -t ed25519 -C "your_email@example.com"
+
+git status
+git add .
+git commit -m "add sheet"
+
+git push origin master
+
+
