@@ -1,4 +1,4 @@
 <?php 
-echo "TEST 2222";
+echo "TEST is my test";
 
 ?>
