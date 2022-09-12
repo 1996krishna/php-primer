@@ -102,6 +102,7 @@
     <p>This article is very based on a very important person who is doing very good in the teaching field. he is a hero, an inspiration for so many people and Govt job aspirants. We are talking about Khan Sir Patna who is the founder of Khan GS Research Centre Patna. People know him with his YouTube channel but no one knows about Khan Sir Patna Biography. We will tell you Khan Sir Patna Wikipedia details through our article.
 
 
+    
     </p>
   </div>
 
